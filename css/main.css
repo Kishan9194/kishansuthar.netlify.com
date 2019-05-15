@@ -1,6 +1,6 @@
 .site-header{
-		color: #ffffff;
-		font-family : monospace ;
+		color: #000000;
+		font-family: 'Stylish', sans-serif; 
 		display : flex;
 		flex-direction: column;
 		justify-content: center;
@@ -24,9 +24,9 @@ body{
 }
 
 .college-link{
-		color: #ffffff;		
+		color: #000000;		
 }
 h3
 {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Stylish', sans-serif;
 }
