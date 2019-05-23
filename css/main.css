@@ -22,8 +22,8 @@ body{
 }
 
 .site-header-content{
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .college-link{
@@ -34,7 +34,6 @@ h3
 	font-family: 'Stylish', sans-serif;
 }
 .site-banner{
-	margin-top:20px;
 	padding-top:10px;
 	background:White;
 	display:flex;
